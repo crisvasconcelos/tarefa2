@@ -1,3 +1,4 @@
+<?php include 'restrito.php'; ?>
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -52,17 +53,7 @@
                         <button type="submit" class="btn btn-default">Procurar...</button>
                     </form>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#">Serviços</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Clínica <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Ambientes</a></li>
-                                <li><a href="#">Tratamentos</a></li>
-                                <li><a href="#">Pacientes</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Sugestões</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="logout.php">Sair</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
