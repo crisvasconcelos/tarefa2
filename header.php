@@ -24,18 +24,18 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="inicio.html">Início</a>
+                    <a class="navbar-brand" href="inicio.php">Início</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html"> Médicos</a></li>
-                        <li><a href="#"> Consultas </a> </li>
+                        <li class="active"><a href="listas.php"> Médicos</a></li>
+                        <li><a href="#halepolepo"> Consultas </a> </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Cadastro <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="formulario.html"> Formulário </a></li>
+                                <li><a href="formulario.php"> Formulário </a></li>
                                 <li><a href="#"> Chat privado</a></li>
                                 <li><a href="#"> Pagamentos efetuados</a></li>
                                 <li class="divider"></li>
@@ -67,18 +67,3 @@
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-
-        <div id="conteudo">
-            <p>
-                <b>Lorem ipsum dolor sit amet,</b>consectetur adipiscing elit. Suspendisse ultrices consequat massa eleifend faucibus. Etiam in nunc nec urna egestas bibendum. Sed id rhoncus tortor. Nunc egestas pellentesque mauris, id fringilla ligula mattis et. Suspendisse sed libero vel enim vehicula gravida. Morbi consectetur vestibulum turpis. Integer nunc justo, cursus eu rhoncus ac, posuere ac lectus. Phasellus a mollis mauris, euismod pretium eros. Nam imperdiet, diam non lobortis facilisis, metus nulla pellentesque dolor, ac scelerisque leo est nec elit. In lacinia malesuada mollis. Nullam eleifend, libero vel tristique posuere, odio elit mollis sapien, eu accumsan dui metus sed lectus. Mauris eget dignissim nulla, in aliquam odio.<br> </br>
-                <b>Cras condimentum tristique magna,</b>b non vehicula urna rutrum eget. Nam euismod dolor vel magna cursus congue. Morbi ac feugiat elit, at tincidunt neque. Integer turpis dolor, vestibulum vel blandit eu, faucibus in erat. Nunc ut nibh luctus tortor tincidunt accumsan. Praesent suscipit ullamcorper tempus. Praesent at porta nulla. Sed euismod in diam non auctor. Phasellus auctor convallis orci, vel cursus eros tempus at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<br> </br>
-                <b>Cras ac felis eleifend, auctor arcu semper,</b> volutpat orci. In luctus mauris quam, sed luctus sem laoreet in. Aenean tempor pellentesque ipsum, quis blandit sapien commodo quis. Proin eget consequat ligula, at euismod elit. Duis vitae vulputate arcu. Vestibulum id elementum ligula. Nunc ornare ligula eros, vel placerat mi tristique euismod.<br> </br>        
-                <b>Donec nec urna rhoncus, viverra nibh gravida,</b> sollicitudin nibh. Phasellus sem ipsum, hendrerit sed egestas non, consectetur vel purus. Duis dapibus metus eget felis vulputate, in vulputate erat blandit. Morbi cursus consectetur felis, in tincidunt magna congue et. Cras dapibus congue magna, ut pellentesque nisi consectetur vel. Nam sit amet sollicitudin ipsum, id pulvinar quam. Quisque quis vehicula quam.<br> </br>                
-                <b>Curabitur sit amet justo vel libero euismod accumsan.</b> Donec quis porta elit, vitae aliquam odio. Mauris pellentesque augue at nulla scelerisque malesuada. Ut sit amet viverra sapien, hendrerit hendrerit sapien. Suspendisse tortor justo, fringilla nec congue eget, varius id nibh. In at quam vehicula, venenatis magna quis, consequat diam. Morbi vel elit in erat mattis facilisis. 
-            </p>
-        </div>       
-        <div id="footer">
-            <p> Todos os direitos resarvados </p>
-        </div>
-    </body>
-</html>
